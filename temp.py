@@ -17,6 +17,9 @@ def aaa():
 def a():
     return null
 
+def ddd():
+    return
+
 a()
 
 aaa()
