@@ -7,3 +7,6 @@ def ppaa():
 
 def checkmate():
     return
+
+def rea():
+    return
