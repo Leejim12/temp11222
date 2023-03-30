@@ -11,6 +11,11 @@ def new():
 def canon():
     return null
 
+def aaa():
+    return null
+
+aaa()
+
 main()
 new()
 canon()
