@@ -14,6 +14,11 @@ def canon():
 def aaa():
     return null
 
+def a():
+    return null
+
+a()
+
 aaa()
 
 main()
